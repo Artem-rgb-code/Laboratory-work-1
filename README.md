@@ -41,6 +41,7 @@
 Рис. 9 - Фрагмент екрану з рішення завдання 2.3.4
 
 
+
 ### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків
 
 
@@ -60,3 +61,28 @@
 
 Рис. 13 - Фрагмент екрану з рішення завдання 2.4.6
 
+
+
+### 4 Проста обробка результатів виконання команд
+
+<img width="692" height="481" alt="1" src="https://github.com/user-attachments/assets/2983ad2d-be1d-4da0-8e34-c51bfbf954d8" />
+
+Рис. 14 - Фрагмент екрану з рішення завдання 2.5.1
+
+<img width="633" height="1026" alt="2 1" src="https://github.com/user-attachments/assets/92fa51be-2803-4eb6-aeee-c3e6df09d665" />
+
+<img width="653" height="884" alt="2 2" src="https://github.com/user-attachments/assets/164c6b18-46d2-438a-8d0b-75a3f55935c9" />
+
+Рис. 15 та 16 - Фрагменти екрану з рішення завдання 2.5.2
+
+<img width="679" height="598" alt="3" src="https://github.com/user-attachments/assets/47749c6e-a76c-4363-9b9f-ac2833c95851" />
+
+Рис. 17 - Фрагмент екрану з рішення завдання 2.5.3
+
+<img width="655" height="147" alt="4" src="https://github.com/user-attachments/assets/8e6b0c0e-499b-4377-995c-73fd312e97f8" />
+
+Рис. 18 - Фрагмент екрану з рішення завдання 2.5.4
+
+<img width="487" height="75" alt="5" src="https://github.com/user-attachments/assets/e59a2730-24a1-43e0-b04d-aecf0450fa13" />
+
+Рис. 19 - Фрагмент екрану з рішення завдання 2.5.5
