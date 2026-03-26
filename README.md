@@ -20,3 +20,24 @@
 
 Рис. 5 - Фрагмент екрану з рішення завдання 2.2.5
 
+
+
+### 2 Налаштування псевдонімів команд оболонки Bash
+
+<img width="637" height="374" alt="Screenshot_1 11" src="https://github.com/user-attachments/assets/323445d6-8d47-4b17-9594-9ecbaf7304fe" />
+
+Рис. 6 - Фрагмент екрану з рішення завдання 2.3.1
+
+<img width="643" height="370" alt="Screenshot_2 11" src="https://github.com/user-attachments/assets/cef6b12a-5744-4d23-b279-548f809690ab" />
+
+Рис. 7 - Фрагмент екрану з рішення завдання 2.3.2
+
+<img width="638" height="373" alt="Screenshot_3 11" src="https://github.com/user-attachments/assets/98a2f793-3cc7-4280-9af0-d10146585eae" />
+
+Рис. 8 - Фрагмент екрану з рішення завдання 2.2.3
+
+<img width="579" height="365" alt="Screenshot_4 11" src="https://github.com/user-attachments/assets/dabfce8c-0b16-420d-9096-550941a70bc6" />
+
+Рис. 9 - Фрагмент екрану з рішення завдання 2.3.4
+
+
