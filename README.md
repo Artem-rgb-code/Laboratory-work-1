@@ -41,3 +41,22 @@
 Рис. 9 - Фрагмент екрану з рішення завдання 2.3.4
 
 
+### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків
+
+
+<img width="581" height="371" alt="Screenshot_1 1" src="https://github.com/user-attachments/assets/f9404f35-7263-4c5f-9c9a-cc0e83d989d1" />
+
+Рис. 10 - Фрагмент екрану з рішення завдання 2.4.1-2.4.2
+
+<img width="583" height="375" alt="Screenshot_2 1" src="https://github.com/user-attachments/assets/ffff5fc2-b972-4a8c-92c6-eb9ac750daf6" />
+
+Рис. 11 - Фрагмент екрану з рішення завдання 2.4.3
+
+<img width="660" height="342" alt="Screenshot_3 1" src="https://github.com/user-attachments/assets/7874c0f3-9154-47b4-b588-3f7f6f9c1848" />
+
+Рис. 12 - Фрагмент екрану з рішення завдання 2.4.4 - 2.4.5
+
+<img width="638" height="402" alt="Screenshot_4 1" src="https://github.com/user-attachments/assets/b699ea94-074b-40e3-8136-22f4a5108244" />
+
+Рис. 13 - Фрагмент екрану з рішення завдання 2.4.6
+
